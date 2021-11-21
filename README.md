@@ -1,0 +1,6 @@
+- Hi, I’m Leon @Grichmann!
+- I’m interested in videogames and videogame accessories.
+- I’m currently learning how to work with others and actually do something useful with my fledgeling coding skills.
+- I’m looking to collaborate on any small game project.
+- I know C# and Unity best, but how hard can learning a new language or engine be?
+- I'm also a little familiar with Java, Python, and C++.
